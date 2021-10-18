@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Match
 This is a simple game built to test user memory. There is a deck of cards with different icons. 
 
 # Challenge
@@ -11,7 +11,7 @@ Match cards in less clicks.
 * Match cards properly with less clicks
 
 
-# How we built the Memory Game
+# How we built the Memory Match
 * created a deck of cards that shuffles when game is refreshed.
 * created a counter to count the number of clicks made by player.
 * created a pop-up to display scores. 
